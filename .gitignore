@@ -1,0 +1,7 @@
+*.db
+/Debug
+/Release
+/*/Debug
+/*/Release
+/.vs
+/misc
